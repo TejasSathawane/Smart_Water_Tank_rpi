@@ -28,7 +28,7 @@
 error_reporting(-1);//report all errors during execution
 
 global $host;
-$host="https://smart_water_tank_rpi.github.io/";
+$host="https://smart_water_tank_rpi.github.io";
 //$host="http://localhost";
 
 global $realtime_path,$simulation_path;
